@@ -46,3 +46,5 @@ as per the code changes
 
 - [ ] Add real Spark code example
 - [ ] Add workflow automation
+- [ ] Local environment setup
+- [ ] Screenshots to showcase process for learners
